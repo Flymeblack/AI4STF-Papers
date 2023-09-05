@@ -41,6 +41,7 @@ This is a list of academic papers focusing on the frontier of AI for spatio-temp
 1. **Automated Spatio-Temporal Graph Contrastive Learning**. *Qianru Zhang, Chao Huang, Lianghao Xia, Zheng Wang, Zhonghang Li, Siu-Ming Yiu*. WWW 2023. [pdf]
 1. **AutoCTS+: Joint Neural Architecture and Hyperparameter Search for Correlated Time Series Forecasting**. *Xinle Wu, Dalin Zhang, Miao Zhang, Chenjuan Guo, Bin Yang, Christian S. Jensen*. SIGMOD 2023. [pdf]
 1. **LightCTS: A Lightweight Framework for Correlated Time Series Forecasting**. *Zhichen Lai, Dalin Zhang, Huan Li, Christian S. Jensen, Hua Lu, Yan Zhao*. SIGMOD 2023. [pdf]
+1. **ST4ML: Machine Learning Oriented Spatio-Temporal Data Processing at Scale**. *Kaiqi Liu, Panrong Tong, Mo Li, Yue Wu, Jianqiang Huang*. SIGMOD 2023. [pdf]
 1. **Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction**. *Pan Deng, Yu Zhao, Junting Liu, Xiaofeng Jia, Mulan Wang*. AAAI 2023. [pdf]
 1. **Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction**. *Jiahao Ji, Jingyuan Wang, Chao Huang, Junjie Wu, Boren Xu, Zhenhe Wu, Junbo Zhang, Yu Zheng*. AAAI 2023. [pdf]
 1. **Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout**. *Hongjun Wang, Jiyuan Chen, Tong Pan, Zipei Fan, Xuan Song, Renhe Jiang, Lingyu Zhang, Yi Xie, Zhongyi Wang, Boyuan Zhang*. AAAI 2023. [pdf]

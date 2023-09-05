@@ -16,6 +16,7 @@
 1. **Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey**. *Guangyin Jin, Yuxuan Liang, Yuchen Fang, Jincai Huang, Junbo Zhang, Yu Zheng*. Preprint 2023. [[pdf](https://arxiv.org/pdf/2303.14483v2.pdf)]
 1. **Graph Neural Network for Traffic Forecasting: A Survey**. *Weiwei Jiang, Jiayun Luo*. Expert Systems with Applications 2022. [[pdf](https://arxiv.org/pdf/2101.11174v4.pdf)]
 1. **Urban Flows Prediction from Spatial-Temporal Data Using Machine Mearning: A Survey**. *Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang*. Information Fusion 2020. [[pdf](https://arxiv.org/pdf/1908.10218v1.pdf)]
+1. **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges**. *David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, Kai Qin*. TKDE 2020. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9112608&casa_token=XYap83_9hsMAAAAA:QmIaBYiaEkQem6YJa-elGCrfz4k6CNyMZnPLfkYBho2N4pDwoiZOwRO_NJXrMAOnDMF3V9LkrhRZ)]
 
 ## 2. Research Papers by Year
 ### 2023

@@ -66,6 +66,7 @@
 1. **Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention**. *Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, Flora D. Salim*. IJCAI 2022. [pdf]
 1. **FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting**. *Xuan Rao, Hao Wang, Liang Zhang, Jing Li, Shuo Shang, Peng Han*. IJCAI 2022. [pdf]
 1. **DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting**. *Shiyong Lan, Yitong Ma, Weikang Huang, Wenwu Wang, Hongyu Yang, Pyang Li*. ICML 2022. [pdf]
+1. **Pyramid: Enabling Hierarchical Neural Networks with Edge Computing**. *Qiang He,  Zeqian Dong, Feifei Chen, Shuiguang Deng, Weifa Liang, Yun Yang*. WWW 2022. [pdf]
 1. **TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting**. *Yuzhou Chen, Ignacio Segovia-Dominguez, Baris Coskunuzer, Yulia R. Gel*. ICLR 2022. [pdf]
 1. **Graph-Guided Network for Irregularly Sampled Multivariate Time Series**. *Xiang Zhang, Marko Zeman, Theodoros Tsiligkaridis, Marinka Zitnik*. ICLR 2022. [pdf]
 1. **Graph Neural Controlled Differential Equations for Traffic Forecasting**. *Jeongwhan Choi, Hwangyong Choi, Jeehyun Hwang, Noseong Park*. AAAI 2022. [pdf]

@@ -50,10 +50,16 @@
 1. **Hierarchical Graph Convolution Network for Traffic Forecasting**. *Kan Guo, Yongli Hu, Yanfeng Sun, Sean Qian, Junbin Gao, Baocai Yin*. AAAI 2021. [pdf]
 
 ### 2020
+1. **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**. *Lei Bai, Lina Yao, Can Li, Xianzhi Wang, Can Wang*. NeurIPS 2020. [pdf]
+1. **Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting**. *Defu Cao, Yujing Wang, Juanyong Duan, Ce Zhang, Xia Zhu, Congrui Huang, Yunhai Tong, Bixiong Xu, Jing Bai, Jie Tong, Qi Zhang*. NeurIPS 2020. [pdf]
 1. **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data**. *Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*. KDD 2020. [pdf]
 1. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang*. KDD 2020. [pdf]
+1. **LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks**. *Rongzhou Huang, Chuyin Huang, Yubao Liu, Genan Dai, Weiyang Kong*. IJCAI 2020. [pdf]
 1. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network**. *Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu*. WWW 2020. [pdf]
-
+1. **Spatio-Temporal Graph Structure Learning for Traffic Forecasting**. *Qi Zhang, Jianlong Chang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*. AAAI 2020. [pdf]
+1. **GMAN: A Graph Multi-Attention Network for Traffic Prediction**. *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*. AAAI 2020. [pdf]
+1. **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting**. *Weiqi Chen, Ling Chen, Yu Xie, Wei Cao, Yusong Gao, Xiaojie Feng*. AAAI 2020. [pdf]
+1. **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting**. *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*. AAAI 2020. [pdf]
 
 ### 2019
 

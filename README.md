@@ -42,6 +42,7 @@
 1. **Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction**. *Pan Deng, Yu Zhao, Junting Liu, Xiaofeng Jia, Mulan Wang*. AAAI 2023. [pdf]
 1. **Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction**. *Jiahao Ji, Jingyuan Wang, Chao Huang, Junjie Wu, Boren Xu, Zhenhe Wu, Junbo Zhang, Yu Zheng*. AAAI 2023. [pdf]
 1. **Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout**. *Hongjun Wang, Jiyuan Chen, Tong Pan, Zipei Fan, Xuan Song, Renhe Jiang, Lingyu Zhang, Yi Xie, Zhongyi Wang, Boyuan Zhang*. AAAI 2023. [pdf]
+1. **AirFormer: Predicting Nationwide Air Quality in China with Transformers**. *Yuxuan Liang, Yutong Xia, Songyu Ke, Yiwei Wang, Qingsong Wen, Junbo Zhang, Yu Zheng, Roger Zimmermann*. AAAI 2023. [pdf]
 1. **AutoSTL: Automated Spatio-Temporal Multi-Task Learning**. *Zijian Zhang, Xiangyu Zhao, Hao Miao, Chunxu Zhang, Hongwei Zhao, Junbo Zhang*. AAAI 2023. [pdf]
 1. **Scalable Spatiotemporal Graph Neural Networks**. *Andrea Cini, Ivan Marisca, Filippo Maria Bianchi, Cesare Alippi*. AAAI 2023. [pdf]
 1. **Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling**. *Yuchen Fang, Kan Ren, Caihua Shan, Yifei Shen, You Li, Weinan Zhang, Yong Yu, Dongsheng Li*. AAAI 2023. [pdf]

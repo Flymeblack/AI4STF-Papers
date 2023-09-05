@@ -115,8 +115,9 @@
 
 ### 2018
 1. **Deep Distributed Fusion Network for Air Quality Prediction**. *Xiuwen Yi, Junbo Zhang, Zhaoyuan Wang, Tianrui Li, Yu Zheng*. KDD 2018. [pdf]
-1. **Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting**. *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*. ICLR 2019. [pdf]
-1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting**. *Bing Yu, Haoteng Yin, Zhanxing Zhu*. IJCAI 2019. [pdf]
+1. **Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting**. *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*. ICLR 2018. [pdf]
+1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting**. *Bing Yu, Haoteng Yin, Zhanxing Zhu*. IJCAI 2018. [pdf]
+1. **GeoMAN: multi-level attention networks for geo-sensory time series prediction**. *Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng*. IJCAI 2018. [pdf]
 
 ### 2017
 1. **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**. *Junbo Zhang, Yu Zheng, Dekang Qi*. AAAI 2019. [pdf]

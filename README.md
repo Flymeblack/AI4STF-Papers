@@ -17,8 +17,10 @@
 
 ## 2. Research Papers by Year
 ### 2022
+1. **Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**. *Zezhi Shao, Zhao Zhang, Wei Wei, Fei Wang, Yongjun Xu, Xin Cao, Christian S. Jensen*. VLDB 2022. [pdf]
 1. **AutoST: Towards the Universal Modeling of Spatio-temporal Sequences**. *Jianxin Li, Shuai Zhang, Hui Xiong, Haoyi Zhou*. NeurIPS 2022. [pdf]
 1. **Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks**. *Yijing Liu, Qinxian Liu, Jian-Wei Zhang, Haozhe Feng, Zhongwei Wang, Zihan Zhou, Wei Chen*. NeurIPS 2022. [pdf]
+1. **Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models**. *Fan Liu, Hao Liu, Wenzhao Jiang*. NeurIPS 2022. [pdf]
 1. **Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting**. *Zezhi Shao, Zhao Zhang, Fei Wang, Yongjun Xu*. KDD 2022. [pdf]
 1. **Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting**. *Junchen Ye, Zihan Liu, Bowen Du, Leilei Sun, Weimiao Li, Yanjie Fu, Hui Xiong*. KDD 2022. [pdf]
 1. **Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning**. *Rongfan Li, Ting Zhong, Xinke Jiang, Goce Trajcevski, Jin Wu, Fan Zhou*. KDD 2022. [pdf]
@@ -30,6 +32,32 @@
 1. **TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting**. *Yuzhou Chen, Ignacio Segovia-Dominguez, Baris Coskunuzer, Yulia R. Gel*. ICLR 2022. [pdf]
 1. **Graph-Guided Network for Irregularly Sampled Multivariate Time Series**. *Xiang Zhang, Marko Zeman, Theodoros Tsiligkaridis, Marinka Zitnik*. ICLR 2022. [pdf]
 1. **Graph Neural Controlled Differential Equations for Traffic Forecasting**. *Jeongwhan Choi, Hwangyong Choi, Jeehyun Hwang, Noseong Park*. AAAI 2022. [pdf]
+
+### 2021
+1. **ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting**. *Jinliang Deng, Xiusi Chen, Renhe Jiang, Xuan Song, Ivor W. Tsang*. KDD 2021. [pdf]
+1. **Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting**. *Zheng Fang, Qingqing Long, Guojie Song, Kunqing Xie*. KDD 2021. [pdf]
+1. **Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting**. *Liangzhe Han, Bowen Du, Leilei Sun, Yanjie Fu, Yisheng Lv, Hui Xiong*. KDD 2021. [pdf]
+1. **Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning**. *Lianghao Xia, Chao Huang, Yong Xu, Peng Dai, Liefeng Bo, Xiyue Zhang, Tianyi Chen*. IJCAI 2021. [pdf]
+1. **TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning**. *Xu Chen, Junshan Wang, Kunqing Xie*. IJCAI 2021. [pdf]
+1. **AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graph**. *Zheyi Pan, Songyu Ke, Xiaodu Yang, Yuxuan Liang, Yong Yu, Junbo Zhang, Yu Zheng*. WWW 2021. [pdf]
+1. **REST: Reciprocal Framework for Spatiotemporal-coupled Predictions**. *Haozhe Lin, Yushun Fan, Jia Zhang, Bing Bai*. WWW 2021. [pdf]
+1. **Discrete Graph Structure Learning for Forecasting Multiple Time Series**. *Chao Shang, Jie Chen, Jinbo Bi*. ICLR 2021. [pdf]
+1. **Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting**. *Mengzhang Li, Zhanxing Zhu*. AAAI 2021. [pdf]
+1. **FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting**. *Boris N. Oreshkin, Arezou Amini, Lucy Coyle, Mark Coates*. AAAI 2021. [pdf]
+1. **Joint Air Quality and Weather Prediction Based on Multi-Adversarial Spatiotemporal Networks**. *Jindong Han, Hao Liu, Hengshu Zhu, Hui Xiong, Dejing Dou*. AAAI 2021. [pdf]
+1. **Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network**. *Xiyue Zhang, Chao Huang, Yong Xu, Lianghao Xia, Peng Dai, Liefeng Bo, Junbo Zhang, Yu Zheng*. AAAI 2021. [pdf]
+1. **Spatiotemporal Graph Neural Network for Performance Prediction of Photovoltaic Power Systems**. *Ahmad Maroof Karimi, Yinghui Wu, Mehmet Koyutürk, Roger H. French*. AAAI 2021. [pdf]
+1. **Hierarchical Graph Convolution Network for Traffic Forecasting**. *Kan Guo, Yongli Hu, Yanfeng Sun, Sean Qian, Junbin Gao, Baocai Yin*. AAAI 2021. [pdf]
+
+### 2020
+1. **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data**. *Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*. KDD 2020. [pdf]
+1. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang*. KDD 2020. [pdf]
+1. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network**. *Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu*. WWW 2020. [pdf]
+
+
+### 2019
+
+### 2018
 
 
 

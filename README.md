@@ -13,3 +13,6 @@
 ## 1. Survey Papers
 1. **Graph Neural Network for Spatiotemporal Data: Methods and Applications**. *Yun Li, Dazhou Yu, Zhenke Liu, Minxing Zhang, Xiaoyun Gong, Liang Zhao*. Preprint 2023. [[pdf](https://arxiv.org/pdf/2306.00012v1.pdf)]
 1. **Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey**. *Guangyin Jin, Yuxuan Liang, Yuchen Fang, Jincai Huang, Junbo Zhang, Yu Zheng*. Preprint 2023. [[pdf](https://arxiv.org/pdf/2303.14483v2.pdf)]
+1. **Urban Flows Prediction from Spatial-Temporal Data Using Machine Mearning: A Survey**. *Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang*. Information Fusion 2020. [[pdf](https://arxiv.org/pdf/1908.10218v1.pdf)]
+
+

@@ -48,7 +48,6 @@
 1. **Learning Decomposed Spatial Relations for Multi-Variate Time-Series Modeling**. *Yuchen Fang, Kan Ren, Caihua Shan, Yifei Shen, You Li, Weinan Zhang, Yong Yu, Dongsheng Li*. AAAI 2023. [pdf]
 1. **Spatio-Temporal Meta-Graph Learning for Traffic Forecasting**. *Renhe Jiang, Zhaonan Wang, Jiawei Yong, Puneet Jeph, Quanjun Chen, Yasumasa Kobayashi, Xuan Song, Shintaro Fukushima, Toyotaro Suzumura*. AAAI 2023. [pdf]
 1. **Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction**. *Guangyin Jin, Lingbo Liu, Fuxian Li, Jincai Huang*. AAAI 2023. [pdf]
-1. **Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction**. *Guangyin Jin, Lingbo Liu, Fuxian Li, Jincai Huang*. AAAI 2023. [pdf]
 1. **SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting**. *Lei Chen, Fei Du, Yuan Hu, Zhibin Wang, Fan Wang*. AAAI 2023. [pdf]
 
 ### 2022

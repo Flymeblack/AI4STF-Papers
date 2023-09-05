@@ -14,9 +14,23 @@
 ## 1. Survey Papers
 1. **Graph Neural Network for Spatiotemporal Data: Methods and Applications**. *Yun Li, Dazhou Yu, Zhenke Liu, Minxing Zhang, Xiaoyun Gong, Liang Zhao*. Preprint 2023. [[pdf](https://arxiv.org/pdf/2306.00012v1.pdf)]
 1. **Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey**. *Guangyin Jin, Yuxuan Liang, Yuchen Fang, Jincai Huang, Junbo Zhang, Yu Zheng*. Preprint 2023. [[pdf](https://arxiv.org/pdf/2303.14483v2.pdf)]
+1. **Graph Neural Network for Traffic Forecasting: A Survey**. *Weiwei Jiang, Jiayun Luo*. Expert Systems with Applications 2022. [[pdf](https://arxiv.org/pdf/2101.11174v4.pdf)]
 1. **Urban Flows Prediction from Spatial-Temporal Data Using Machine Mearning: A Survey**. *Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang*. Information Fusion 2020. [[pdf](https://arxiv.org/pdf/1908.10218v1.pdf)]
 
 ## 2. Research Papers by Year
+### 2023
+1. **Accurate medium-range global weather forecasting with 3D neural networks**. *Kaifeng Bi, Lingxi Xie, Hengheng Zhang, Xin Chen, Xiaotao Gu, Qi Tian*. Nature 2023. [pdf]
+1. **Interpretable weather forecasting for worldwide stations with a unified deep model**. *Haixu Wu, Hang Zhou, Mingsheng Long, Jianmin Wang*. Nature Machine Intelligence 2023. [pdf]
+1. **Sparse Graph Learning from Spatiotemporal Time Series**. *Andrea Cini, Daniele Zambon, Cesare Alippi*. JMLR 2023. [pdf]
+1. **Maintaining the Status Quo: Capturing Invariant Relations for OOD Spatiotemporal Learning**. *Zhengyang Zhou, Qihe Huang, Kuo Yang, Kun Wang, Xu Wang, Yudong Zhang, Yuxuan Liang, Yang Wang*. KDD 2023. [pdf]
+1. **Localised Adaptive Spatial-Temporal Graph Neural Network**. *Wenying Duan, Xiaoxi He, Zimu Zhou, Lothar Thiele, Hong Rao*. KDD 2023. [pdf]
+1. **Spatio-temporal Diffusion Point Processes**. *Yuan Yuan, Jingtao Ding, Chenyang Shao, Depeng Jin, Yong Li*. KDD 2023. [pdf]
+1. **Transferable Graph Structure Learning for Graph-Based Traffic Forecasting Across Cities**. *Yilun Jin, Kai Chen, Qiang Yang*. KDD 2023. [pdf]
+1. **Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training**. *Fan Liu, Weijia Zhang, Hao Liu*. KDD 2023. [pdf]
+1. **Pattern Expansion and Consolidation on Evolving Graphs for Continual Traffic Prediction**. *Binwu Wang, Yudong Zhang, Xu Wang, Pengkun Wang, Zhengyang Zhou, Lei Bai, Yang Wang*. KDD 2023. [pdf]
+1. **Spatial Heterophily Aware Graph Neural Networks**. *Congxi Xiao, Jingbo Zhou, Jizhou Huang, Tong Xu, Hui Xiong*. KDD 2023. [pdf]
+1. **FRIGATE: Frugal Spatio-temporal Forecasting on Road Networks**. *Mridul Gupta, Hariprasad Kodamana, Sayan Ranu*. KDD 2023. [pdf]
+
 ### 2022
 1. **Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting**. *Zezhi Shao, Zhao Zhang, Wei Wei, Fei Wang, Yongjun Xu, Xin Cao, Christian S. Jensen*. VLDB 2022. [pdf]
 1. **AutoST: Towards the Universal Modeling of Spatio-temporal Sequences**. *Jianxin Li, Shuai Zhang, Hui Xiong, Haoyi Zhou*. NeurIPS 2022. [pdf]
@@ -27,6 +41,7 @@
 1. **Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning**. *Rongfan Li, Ting Zhong, Xinke Jiang, Goce Trajcevski, Jin Wu, Fan Zhou*. KDD 2022. [pdf]
 1. **Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer**. *Bin Lu, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang*. KDD 2022. [pdf]
 1. **Continuous-Time and Multi-Level Graph Representation Learning for Origin-Destination Demand Prediction**. *Liangzhe Han, Xiaojian Ma, Leilei Sun, Bowen Du, Yanjie Fu, Weifeng Lv, Hui Xiong*. KDD 2022. [pdf]
+1. **Learning Large-scale Subsurface Simulations with a Hybrid Graph Network Simulator**. *Tailin Wu, Qinchen Wang, Yinan Zhang, Rex Ying, Kaidi Cao, Rok Sosič, Ridwan Jalali, Hassan Hamam, Marko Maucec, Jure Leskovec*. KDD 2022. [pdf]
 1. **Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention**. *Wei Shao, Zhiling Jin, Shuo Wang, Yufan Kang, Xiao Xiao, Hamid Menouar, Zhaofeng Zhang, Junshan Zhang, Flora D. Salim*. IJCAI 2022. [pdf]
 1. **FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting**. *Xuan Rao, Hao Wang, Liang Zhang, Jing Li, Shuo Shang, Peng Han*. IJCAI 2022. [pdf]
 1. **DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting**. *Shiyong Lan, Yitong Ma, Weikang Huang, Wenwu Wang, Hongyu Yang, Pyang Li*. ICML 2022. [pdf]
@@ -53,8 +68,9 @@
 ### 2020
 1. **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**. *Lei Bai, Lina Yao, Can Li, Xianzhi Wang, Can Wang*. NeurIPS 2020. [pdf]
 1. **Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting**. *Defu Cao, Yujing Wang, Juanyong Duan, Ce Zhang, Xia Zhu, Congrui Huang, Yunhai Tong, Bixiong Xu, Jing Bai, Jie Tong, Qi Zhang*. NeurIPS 2020. [pdf]
-1. **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data**. *Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*. KDD 2020. [pdf]
 1. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, Chengqi Zhang*. KDD 2020. [pdf]
+1. **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction**. *Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng*. KDD 2020. [pdf]
+1. **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data**. *Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*. KDD 2020. [pdf]
 1. **LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks**. *Rongzhou Huang, Chuyin Huang, Yubao Liu, Genan Dai, Weiyang Kong*. IJCAI 2020. [pdf]
 1. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network**. *Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu*. WWW 2020. [pdf]
 1. **Spatio-Temporal Graph Structure Learning for Traffic Forecasting**. *Qi Zhang, Jianlong Chang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*. AAAI 2020. [pdf]
@@ -64,6 +80,7 @@
 
 ### 2019
 1. **Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning**. *Zheyi Pan, Yuxuan Liang, Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang*. KDD 2019. [pdf]
+1. **Co-Prediction of Multiple Transportation Demands Based on Deep Spatio-Temporal Neural Network**. *Junchen Ye, Leilei Sun, Bowen Du, Yanjie Fu, Xinran Tong, Hui Xiong*. KDD 2019. [pdf]
 1. **GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction**. *Shen Fang, Qi Zhang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*. IJCAI 2019. [pdf]
 1. **STG2Seq: Spatial-Temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting**. *Lei Bai, Lina Yao, Salil S. Kanhere, Xianzhi Wang, Quan Z. Sheng*. IJCAI 2019. [pdf]
 1. **Graph WaveNet for Deep Spatial-Temporal Graph Modeling**. *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*. IJCAI 2019. [pdf]
@@ -75,8 +92,10 @@
 1. **Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting**. *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu*. AAAI 2019. [pdf]
 
 ### 2018
-1. **Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting**. *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*. AAAI 2019. [pdf]
-1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting**. *Bing Yu, Haoteng Yin, Zhanxing Zhu*. AAAI 2019. [pdf]
+1. **Deep Distributed Fusion Network for Air Quality Prediction**. *Xiuwen Yi, Junbo Zhang, Zhaoyuan Wang, Tianrui Li, Yu Zheng*. KDD 2018. [pdf]
+1. **Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting**. *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*. ICLR 2019. [pdf]
+1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting**. *Bing Yu, Haoteng Yin, Zhanxing Zhu*. IJCAI 2019. [pdf]
 
-
+### 2017
+1. **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction**. *Junbo Zhang, Yu Zheng, Dekang Qi*. AAAI 2019. [pdf]
 

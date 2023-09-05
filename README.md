@@ -62,10 +62,20 @@
 1. **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting**. *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*. AAAI 2020. [pdf]
 
 ### 2019
+1. **Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning**. *Zheyi Pan, Yuxuan Liang, Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang*. KDD 2019. [pdf]
+1. **GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction**. *Shen Fang, Qi Zhang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*. IJCAI 2019. [pdf]
+1. **STG2Seq: Spatial-Temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting**. *Lei Bai, Lina Yao, Salil S. Kanhere, Xianzhi Wang, Quan Z. Sheng*. IJCAI 2019. [pdf]
+1. **Graph WaveNet for Deep Spatial-Temporal Graph Modeling**. *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*. IJCAI 2019. [pdf]
+1. **Gated Residual Recurrent Graph Neural Networks for Traffic Prediction**. *Cen Chen, Kenli Li, Sin G. Teo, Xiaofeng Zou, Kang Wang, Jie Wang, Zeng Zeng*. AAAI 2019. [pdf]
+1. **Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting**. *Zulong Diao, Xin Wang, Dafang Zhang, Yingru Liu, Kun Xie, Shaoyao He*. AAAI 2019. [pdf]
+1. **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting**. *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan*. AAAI 2019. [pdf]
+1. **Learning Heterogeneous Spatial-Temporal Representation for Bike-Sharing Demand Prediction**. *Youru Li, Zhenfeng Zhu, Deqiang Kong, Meixiang Xu, Yao Zhao*. AAAI 2019. [pdf]
+1. **DeepSTN+: Context-Aware Spatial-Temporal Neural Network for Crowd Flow Prediction in Metropolis**. *Ziqian Lin, Jie Feng, Ziyang Lu, Yong Li, Depeng Jin*. AAAI 2019. [pdf]
+1. **Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting**. *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu*. AAAI 2019. [pdf]
 
 ### 2018
-
-
+1. **Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting**. *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*. AAAI 2019. [pdf]
+1. **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting**. *Bing Yu, Haoteng Yin, Zhanxing Zhu*. AAAI 2019. [pdf]
 
 
 

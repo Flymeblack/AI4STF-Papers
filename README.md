@@ -61,6 +61,7 @@ This is a list of academic papers focusing on the frontier of AI for spatio-temp
 1. **Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**. *Zhihan Gao, Xingjian Shi, Hao Wang, Yi Zhu, Yuyang Wang, Mu Li, Dit-Yan Yeung*. NeurIPS 2022. [pdf]
 1. **Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting**. *Zezhi Shao, Zhao Zhang, Fei Wang, Yongjun Xu*. KDD 2022. [pdf]
 1. **Learning the Evolutionary and Multi-scale Graph Structure for Multivariate Time Series Forecasting**. *Junchen Ye, Zihan Liu, Bowen Du, Leilei Sun, Weimiao Li, Yanjie Fu, Hui Xiong*. KDD 2022. [pdf]
+1. **MSDR: Multi-Step Dependency Relation Networks for Spatial Temporal Forecasting**. *Dachuan Liu, Jin Wang, Shuo Shang, Peng Han*. KDD 2022. [pdf]
 1. **Mining Spatio-Temporal Relations via Self-Paced Graph Contrastive Learning**. *Rongfan Li, Ting Zhong, Xinke Jiang, Goce Trajcevski, Jin Wu, Fan Zhou*. KDD 2022. [pdf]
 1. **Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer**. *Bin Lu, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang*. KDD 2022. [pdf]
 1. **Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting**. *Yilun Jin, Kai Chen, Qiang Yang*. KDD 2022. [pdf]
